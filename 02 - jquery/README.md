@@ -1,5 +1,5 @@
 # Esposito Ettore
-## Random user generator
+## JQuery
 Esecizi di json, una libreria per il javaScript.
 
 Questa libreria replica o aggiunge funzioni già presenti nel js, ma in maniera più
