@@ -27,7 +27,7 @@ seguente :
             <span> X </span> 
         </div>
         <div class="detail-img">
-            <img src="img/c430.jpg">
+            <img src="">
         </div>
         <div class="detail-info">
             <h4 class="item-title">Canon c430</h4>
